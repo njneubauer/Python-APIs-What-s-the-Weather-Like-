@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# API Key
+api_keys.py
+
+# Instruction files
+Instructions/
