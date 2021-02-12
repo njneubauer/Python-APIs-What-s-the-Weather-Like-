@@ -133,3 +133,6 @@ api_keys.py
 
 # Instruction files
 Instructions/
+
+# checkpoints
+.ipynb_checkpoints
