@@ -1,5 +1,5 @@
 # Weather APIs
-## Part I
+## **Part I**
 
 ## Scatteplots
 
@@ -22,7 +22,7 @@
 * Southern Hemisphere - Cloudiness (%) vs. Latitude
 * Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
-## Part II
+## **Part II**
 
 ## Gmaps
 * Generate heat layer indicating humidity level for cities in part I
