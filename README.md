@@ -1,6 +1,6 @@
 # Weather APIs
 ## Part I
--------------
+
 ## Scatteplots
 
 * Temperature (F) vs. Latitude
@@ -23,7 +23,7 @@
 * Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
 ## Part II
--------------
+
 ## Gmaps
 * Generate heat layer indicating humidity level for cities in part I
 
